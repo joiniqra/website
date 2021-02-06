@@ -3,7 +3,7 @@ module.exports = {
     title: 'JoinIQRA',
   },
   plugins: [
-    'gatsby-plugin-postcss',
+    '@chakra-ui/gatsby-plugin',
     'gatsby-plugin-netlify-cms',
     'gatsby-plugin-sharp',
     'gatsby-plugin-react-helmet',
